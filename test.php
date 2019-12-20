@@ -2,4 +2,5 @@
 
 echo 'hi';
 
+echo 'test again';
 ?>
